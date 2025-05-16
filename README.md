@@ -27,14 +27,25 @@ Este projeto tem como objetivo auxiliar a **Y.Afisha**, uma empresa do setor de 
    - Cruzamento entre o LTV e o custo de aquisição de clientes (CAC).
 
 ---
+## 📁 Sobre os Dados
 
-## 📁 Estrutura de Diretórios
+O projeto utiliza três arquivos principais:
+
+- **visits_log.csv**: registros de acessos dos usuários (ID, data, região, dispositivo).  
+- **orders_log.csv**: pedidos realizados (ID, data, receita, dispositivo, região).  
+- **costs.csv**: gastos diários em marketing por canal (canal, data, valor).
+
 📦 marketing-analytics-yafisha
 ├── 📁 datasets/
+
 │ ├── 📄 visits_log.csv
+
 │ ├── 📄 orders_log.csv
+
 │ └── 📄 costs.csv
+
 ├── 📄 README.md
+
 └── 📄 Notebook_Projeto_7.ipynb
 
 ---
