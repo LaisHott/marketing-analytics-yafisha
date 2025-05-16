@@ -1,4 +1,4 @@
-# Otimização de Despesas com Marketing na Y.Afisha
+# 📊 Otimização de Despesas com Marketing na Y.Afisha
 
 Este projeto tem como objetivo auxiliar a **Y.Afisha**, uma empresa do setor de entretenimento, a **otimizar suas despesas com marketing** através de uma análise completa do comportamento dos usuários e dos investimentos realizados.
 
