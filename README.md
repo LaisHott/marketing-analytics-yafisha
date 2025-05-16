@@ -35,19 +35,6 @@ O projeto utiliza três arquivos principais:
 - **orders_log.csv**: pedidos realizados (ID, data, receita, dispositivo, região).  
 - **costs.csv**: gastos diários em marketing por canal (canal, data, valor).
 
-📦 marketing-analytics-yafisha
-├── 📁 datasets/
-
-│ ├── 📄 visits_log.csv
-
-│ ├── 📄 orders_log.csv
-
-│ └── 📄 costs.csv
-
-├── 📄 README.md
-
-└── 📄 Notebook_Projeto_7.ipynb
-
 ---
 
 ## 🧰 Ferramentas Utilizadas
