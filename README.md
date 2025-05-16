@@ -31,9 +31,9 @@ Este projeto tem como objetivo auxiliar a **Y.Afisha**, uma empresa do setor de 
 
 O projeto utiliza três arquivos principais:
 
-- **visits_log.csv**: registros de acessos dos usuários (ID, data, região, dispositivo).  
-- **orders_log.csv**: pedidos realizados (ID, data, receita, dispositivo, região).  
-- **costs.csv**: gastos diários em marketing por canal (canal, data, valor).
+- **`visits_log.csv`**: registros de acessos dos usuários (ID, data, região, dispositivo).  
+- **`orders_log.csv`**: pedidos realizados (ID, data, receita, dispositivo, região).  
+- **`costs.csv`**: gastos diários em marketing por canal (canal, data, valor).
 
 ---
 
